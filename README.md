@@ -1,7 +1,8 @@
-<!-- Blue, garnet and gold football-themed GitHub Profile README -->
+<!-- AI/ML GitHub Profile README -->
+<!-- Replace Itsimaady, imaadurooj@gmail.com and syed-imaaduddin-urooj-669203219 before publishing -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:004D98,50:A50044,100:EDBB00&height=230&section=header&text=Syed%20Imaaduddin%20Urooj&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE%20(AIML)%20Student%20%7C%20AI%2FML%20Enthusiast%20%7C%20Full%20Stack%20Learner&descAlignY=58&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:00C9FF,100:00FF7F&height=230&section=header&text=Syed%20Imaaduddin%20Urooj&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE%20(AIML)%20Student%20%7C%20AI%2FML%20Enthusiast%20%7C%20Full%20Stack%20Learner&descAlignY=58&descSize=18" />
 </p>
 
 <h1 align="center">
@@ -9,13 +10,13 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=D4A017&center=true&vCenter=true&width=1000&lines=CSE+(AIML)+Student+%40+CBIT+Hyderabad;AI%2FML+Enthusiast+%7C+Python+%7C+Deep+Learning;React+%7C+FastAPI+%7C+Full+Stack+Development;Building+Real-World+AI+%26+Software+Projects;Play+with+Passion.+Code+with+Precision.+%E2%9A%BD;Graduating+in+2028+%7C+Open+to+Opportunities&repeat=true" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=CSE+(AIML)+Student+%40+CBIT+Hyderabad;AI%2FML+Enthusiast+%7C+Python+%7C+Deep+Learning;React+%7C+FastAPI+%7C+Full+Stack+Development;Building+Real-World+AI+%26+Software+Projects;Graduating+in+2028+%7C+Open+to+Opportunities&repeat=true" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Itsimaady&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Itsimaady?label=Followers&style=for-the-badge&color=004D98" />
-  <img src="https://img.shields.io/github/stars/Itsimaady?label=Stars&style=for-the-badge&color=C79A00" />
+  <img src="https://img.shields.io/github/followers/Itsimaady?label=Followers&style=for-the-badge&color=00C9FF" />
+  <img src="https://img.shields.io/github/stars/Itsimaady?label=Stars&style=for-the-badge&color=00FF7F" />
 </p>
 
 <!-- Snake Animation (needs the snake GitHub Action set up in this repo) -->
@@ -27,7 +28,7 @@
   </picture>
 </p>
 
-## 🔵🔴 Player Profile
+## 👨‍💻 About Me
 
 <img align="right" alt="AI ML Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -53,7 +54,7 @@ goal: Build real-world projects that solve real problems
 
 ---
 
-## 📋 Training Session (Currently Working On)
+## 🔭 Currently Working On
 
 - 🧠 Exploring **Deep Learning**: CNN classification, LSTM next-word prediction, encoder-decoder translation
 - 🌐 Building **full stack apps** with React and FastAPI
@@ -63,18 +64,7 @@ goal: Build real-world projects that solve real problems
 
 ---
 
-## 🧤 Starting XI (Tech Stack)
-
-```text
-         🔵🔴  FORMATION: 4-3-3  🔴🔵
-
-  FORWARDS    ▸  React  ·  FastAPI  ·  JavaScript
-  MIDFIELD    ▸  Python  ·  TensorFlow/Keras  ·  scikit-learn
-  DEFENCE     ▸  Java  ·  SQL  ·  AWS
-  GOALKEEPER  ▸  Git  ·  GitHub
-
-  STYLE       ▸  Possession, patience and precision: tiki-taka for code
-```
+## 🛠️ Tech Arsenal
 
 ### 👨‍💻 Programming Languages
 
@@ -111,7 +101,7 @@ goal: Build real-world projects that solve real problems
 
 ---
 
-## 🏟️ Match Highlights (Featured Projects)
+## 🚀 Featured Projects
 
 <table>
 <tr>
@@ -177,7 +167,7 @@ Offline, air-gapped Bitcoin forensics for investigators, built for Smart India H
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
-<img src="https://img.shields.io/badge/Graph%20ML-A50044?style=flat-square">
+<img src="https://img.shields.io/badge/Graph%20ML-8A2BE2?style=flat-square">
 
 - 🕸️ Wallet clustering and laundering detection (rules, anomaly, GNN)
 - 📡 Origin IP estimation from P2P relay timing with calibrated confidence
@@ -242,7 +232,7 @@ A BFSI project (VaaniLabs.AI, team Loan Rangers) that aims to explain loan rejec
 Currently working on more AI/ML, full stack and real-world problem-solving projects.
 
 **Focus Areas:**  
-<img src="https://img.shields.io/badge/AI%2FML-A50044?style=flat-square">
+<img src="https://img.shields.io/badge/AI%2FML-8A2BE2?style=flat-square">
 <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
@@ -260,7 +250,7 @@ Currently working on more AI/ML, full stack and real-world problem-solving proje
 </tr>
 </table>
 
-## 🏆 Trophy Room (Hackathons & Experience)
+## 🏆 Hackathons & Experience
 
 - 🇮🇳 **Smart India Hackathon 2026**: worked on **MetrIQ** (PS 26107) and **btc-intel** (PS 26146)
 - 🏦 **VaaniLabs.AI student project**: Loan Advisory Agents (team Loan Rangers, BFSI and agentic AI)
@@ -269,7 +259,7 @@ Currently working on more AI/ML, full stack and real-world problem-solving proje
 
 ---
 
-## 🌱 The Academy (More Projects)
+## 🧰 More Projects
 
 | Project | What it does | Tech |
 | ------- | ------------ | ---- |
@@ -281,7 +271,7 @@ Currently working on more AI/ML, full stack and real-world problem-solving proje
 
 ---
 
-## 📊 Match Stats
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Itsimaady&theme=tokyonight" height="180"/>
@@ -293,32 +283,32 @@ Currently working on more AI/ML, full stack and real-world problem-solving proje
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itsimaady&layout=compact&hide_border=true&bg_color=0B1220&title_color=EDBB00&text_color=E5E7EB" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itsimaady&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🔥 Unbeaten Run
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Itsimaady&hide_border=true&background=0B1220&ring=A50044&fire=EDBB00&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=EDBB00&sideLabels=5B9BD5&dates=9CA3AF" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Itsimaady&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## ⚡ Playing Style
+## ⚡ Interests
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-A50044?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-004D98?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Web%20Development-C79A00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-00C9FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Web%20Development-00FF7F?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Databases-FF6B6B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Hackathons-FFB400?style=for-the-badge" />
 </p>
 
 ---
 
-## 🎯 Game Plan
+## 📚 Focus Areas
 
 - Artificial Intelligence and Deep Learning
 - Machine Learning with Python
@@ -329,7 +319,7 @@ Currently working on more AI/ML, full stack and real-world problem-solving proje
 
 ---
 
-## 🤝 Join the Team
+## 🤝 Let's Connect & Collaborate
 
 - 💡 Open to **AI/ML project collaborations**
 - 🤖 Interested in **AI, Deep Learning & Agentic AI**
@@ -360,11 +350,11 @@ Currently working on more AI/ML, full stack and real-world problem-solving proje
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EDBB00,50:A50044,100:004D98&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF7F,50:00C9FF,100:8A2BE2&height=120&section=footer" />
 </p>
 
-<h3 align="center">🔵🔴 Learn. Build. Score. One Commit at a Time. 🔴🔵</h3>
+<h3 align="center">✨ Learning. Building. Improving. One Commit at a Time. ✨</h3>
 
 <p align="center">
-  <sub>⭐ Star my repos, every pass counts!</sub>
+  <sub>⭐ Star my repositories if you find them interesting!</sub>
 </p>
