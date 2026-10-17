@@ -1,8 +1,7 @@
-<!-- AI/ML GitHub Profile README -->
-<!-- Replace Itsimaady, imaadurooj@gmail.com and syed-imaaduddin-urooj-669203219 before publishing -->
+<!-- Red and blue themed GitHub Profile README -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:00C9FF,100:00FF7F&height=230&section=header&text=Syed%20Imaaduddin%20Urooj&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE%20(AIML)%20Student%20%7C%20AI%2FML%20Enthusiast%20%7C%20Full%20Stack%20Learner&descAlignY=58&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B91C1C,50:1D4ED8,100:0B1F5C&height=230&section=header&text=Syed%20Imaaduddin%20Urooj&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE%20(AIML)%20Student%20%7C%20AI%2FML%20Enthusiast%20%7C%20Full%20Stack%20Learner&descAlignY=58&descSize=18" />
 </p>
 
 <h1 align="center">
@@ -10,13 +9,13 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=CSE+(AIML)+Student+%40+CBIT+Hyderabad;AI%2FML+Enthusiast+%7C+Python+%7C+Deep+Learning;React+%7C+FastAPI+%7C+Full+Stack+Development;Building+Real-World+AI+%26+Software+Projects;Graduating+in+2028+%7C+Open+to+Opportunities&repeat=true" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=EF4444&center=true&vCenter=true&width=1000&lines=CSE+(AIML)+Student+%40+CBIT+Hyderabad;AI%2FML+Enthusiast+%7C+Python+%7C+Deep+Learning;React+%7C+FastAPI+%7C+Full+Stack+Development;Building+Real-World+AI+%26+Software+Projects;Graduating+in+2028+%7C+Open+to+Opportunities&repeat=true" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Itsimaady&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Itsimaady?label=Followers&style=for-the-badge&color=00C9FF" />
-  <img src="https://img.shields.io/github/stars/Itsimaady?label=Stars&style=for-the-badge&color=00FF7F" />
+  <img src="https://img.shields.io/github/followers/Itsimaady?label=Followers&style=for-the-badge&color=2563EB" />
+  <img src="https://img.shields.io/github/stars/Itsimaady?label=Stars&style=for-the-badge&color=1E3A8A" />
 </p>
 
 <!-- Snake Animation (needs the snake GitHub Action set up in this repo) -->
@@ -167,7 +166,7 @@ Offline, air-gapped Bitcoin forensics for investigators, built for Smart India H
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
-<img src="https://img.shields.io/badge/Graph%20ML-8A2BE2?style=flat-square">
+<img src="https://img.shields.io/badge/Graph%20ML-DC2626?style=flat-square">
 
 - 🕸️ Wallet clustering and laundering detection (rules, anomaly, GNN)
 - 📡 Origin IP estimation from P2P relay timing with calibrated confidence
@@ -232,7 +231,7 @@ A BFSI project (VaaniLabs.AI, team Loan Rangers) that aims to explain loan rejec
 Currently working on more AI/ML, full stack and real-world problem-solving projects.
 
 **Focus Areas:**  
-<img src="https://img.shields.io/badge/AI%2FML-8A2BE2?style=flat-square">
+<img src="https://img.shields.io/badge/AI%2FML-DC2626?style=flat-square">
 <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
@@ -283,7 +282,7 @@ Currently working on more AI/ML, full stack and real-world problem-solving proje
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itsimaady&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itsimaady&layout=compact&hide_border=true&bg_color=0B1220&title_color=EF4444&text_color=E5E7EB" />
 </p>
 
 ---
@@ -291,7 +290,7 @@ Currently working on more AI/ML, full stack and real-world problem-solving proje
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Itsimaady&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Itsimaady&hide_border=true&background=0B1220&ring=DC2626&fire=EF4444&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=3B82F6&sideLabels=3B82F6&dates=9CA3AF" />
 </p>
 
 ---
@@ -299,9 +298,9 @@ Currently working on more AI/ML, full stack and real-world problem-solving proje
 ## ⚡ Interests
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-00C9FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Web%20Development-00FF7F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-DC2626?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Web%20Development-1E3A8A?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Databases-FF6B6B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Hackathons-FFB400?style=for-the-badge" />
 </p>
@@ -344,13 +343,14 @@ Currently working on more AI/ML, full stack and real-world problem-solving proje
 ## 💬 Developer Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <i>"With great power comes great responsibility."</i><br/>
+  <sub>Uncle Ben, Spider-Man</sub>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF7F,50:00C9FF,100:8A2BE2&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F5C,50:1D4ED8,100:B91C1C&height=120&section=footer" />
 </p>
 
 <h3 align="center">✨ Learning. Building. Improving. One Commit at a Time. ✨</h3>
