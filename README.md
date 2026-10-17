@@ -342,13 +342,9 @@ Currently working on more AI/ML, full stack and real-world problem-solving proje
 
 ## 💬 Developer Quote
 
-<p align="center">🕸️ ━━━━ 🕷️ ━━━━ 🕸️</p>
-
 <p align="center">
-  <img alt="With great power comes great responsibility. Uncle Ben, Spider-Man" src="https://capsule-render.vercel.app/api?type=rect&color=0:B91C1C,50:1D4ED8,100:0B1F5C&height=120&section=header&text=%22With%20great%20power%20comes%20great%20responsibility.%22&fontSize=28&fontColor=ffffff&fontAlign=50&fontAlignY=42&desc=%E2%80%94%20Uncle%20Ben%2C%20Spider-Man&descSize=16&descAlign=50&descAlignY=72&animation=fadeIn" />
+  <img alt="With great power comes great responsibility. Uncle Ben, Spider-Man" src="https://raw.githubusercontent.com/Itsimaady/Itsimaady/main/quote.svg" width="800" />
 </p>
-
-<p align="center">🕸️ ━━━━ 🕷️ ━━━━ 🕸️</p>
 
 ---
 
