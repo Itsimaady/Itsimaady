@@ -2,11 +2,11 @@
 <!-- Replace Itsimaady, imaadurooj@gmail.com and syed-imaaduddin-urooj-669203219 before publishing -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:00C9FF,100:00FF7F&height=230&section=header&text=Imaad&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE%20(AIML)%20Student%20%7C%20AI%2FML%20Enthusiast%20%7C%20Full%20Stack%20Learner&descAlignY=58&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:00C9FF,100:00FF7F&height=230&section=header&text=Syed%20Imaaduddin%20Urooj&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE%20(AIML)%20Student%20%7C%20AI%2FML%20Enthusiast%20%7C%20Full%20Stack%20Learner&descAlignY=58&descSize=18" />
 </p>
 
 <h1 align="center">
-  Hi 👋, I'm Imaad
+  Hi 👋, I'm Syed Imaaduddin Urooj
 </h1>
 
 <p align="center">
@@ -33,7 +33,7 @@
 <img align="right" alt="AI ML Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ```yaml
-name: Syed Imaaduddin (Imaad)
+name: Syed Imaaduddin Urooj
 role: CSE (AIML) Student
 location: Hyderabad, Telangana
 education: B.E. in CSE (AI & ML) at Chaitanya Bharathi Institute of Technology (CBIT)
