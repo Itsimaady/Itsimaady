@@ -1,7 +1,7 @@
-<!-- Web-themed (red and blue) GitHub Profile README -->
+<!-- Blue, garnet and gold football-themed GitHub Profile README -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B91C1C,50:1D4ED8,100:0B1F5C&height=230&section=header&text=Syed%20Imaaduddin%20Urooj&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE%20(AIML)%20Student%20%7C%20AI%2FML%20Enthusiast%20%7C%20Full%20Stack%20Learner&descAlignY=58&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:004D98,50:A50044,100:EDBB00&height=230&section=header&text=Syed%20Imaaduddin%20Urooj&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE%20(AIML)%20Student%20%7C%20AI%2FML%20Enthusiast%20%7C%20Full%20Stack%20Learner&descAlignY=58&descSize=18" />
 </p>
 
 <h1 align="center">
@@ -9,13 +9,13 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=EF4444&center=true&vCenter=true&width=1000&lines=CSE+(AIML)+Student+%40+CBIT+Hyderabad;AI%2FML+Enthusiast+%7C+Python+%7C+Deep+Learning;React+%7C+FastAPI+%7C+Full+Stack+Development;Building+Real-World+AI+%26+Software+Projects;Weaving+AI+%26+Web+Apps+One+Commit+at+a+Time+%F0%9F%95%B8%EF%B8%8F;Graduating+in+2028+%7C+Open+to+Opportunities&repeat=true" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=D4A017&center=true&vCenter=true&width=1000&lines=CSE+(AIML)+Student+%40+CBIT+Hyderabad;AI%2FML+Enthusiast+%7C+Python+%7C+Deep+Learning;React+%7C+FastAPI+%7C+Full+Stack+Development;Building+Real-World+AI+%26+Software+Projects;Play+with+Passion.+Code+with+Precision.+%E2%9A%BD;Graduating+in+2028+%7C+Open+to+Opportunities&repeat=true" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Itsimaady&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Itsimaady?label=Followers&style=for-the-badge&color=2563EB" />
-  <img src="https://img.shields.io/github/stars/Itsimaady?label=Stars&style=for-the-badge&color=1E3A8A" />
+  <img src="https://img.shields.io/github/followers/Itsimaady?label=Followers&style=for-the-badge&color=004D98" />
+  <img src="https://img.shields.io/github/stars/Itsimaady?label=Stars&style=for-the-badge&color=C79A00" />
 </p>
 
 <!-- Snake Animation (needs the snake GitHub Action set up in this repo) -->
@@ -27,7 +27,7 @@
   </picture>
 </p>
 
-## 🕷️ Origin Story
+## 🔵🔴 Player Profile
 
 <img align="right" alt="AI ML Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -53,7 +53,7 @@ goal: Build real-world projects that solve real problems
 
 ---
 
-## 🕸️ Currently Swinging Through
+## 📋 Training Session (Currently Working On)
 
 - 🧠 Exploring **Deep Learning**: CNN classification, LSTM next-word prediction, encoder-decoder translation
 - 🌐 Building **full stack apps** with React and FastAPI
@@ -63,15 +63,17 @@ goal: Build real-world projects that solve real problems
 
 ---
 
-## 🕸️ Web-Shooter Kit (Tech Stack)
+## 🧤 Starting XI (Tech Stack)
 
 ```text
-            🕸️  THE SUIT  🕸️
+         🔵🔴  FORMATION: 4-3-3  🔴🔵
 
-  WEB-SHOOTERS   ▸  Python  ·  Java  ·  SQL
-  SPIDER-SENSE   ▸  TensorFlow/Keras  ·  scikit-learn  ·  XGBoost
-  WALL-CRAWLING  ▸  React  ·  FastAPI  ·  JavaScript
-  UTILITY BELT   ▸  Git  ·  GitHub  ·  AWS  ·  DynamoDB
+  FORWARDS    ▸  React  ·  FastAPI  ·  JavaScript
+  MIDFIELD    ▸  Python  ·  TensorFlow/Keras  ·  scikit-learn
+  DEFENCE     ▸  Java  ·  SQL  ·  AWS
+  GOALKEEPER  ▸  Git  ·  GitHub
+
+  STYLE       ▸  Possession, patience and precision: tiki-taka for code
 ```
 
 ### 👨‍💻 Programming Languages
@@ -109,7 +111,7 @@ goal: Build real-world projects that solve real problems
 
 ---
 
-## 🎯 Missions (Featured Projects)
+## 🏟️ Match Highlights (Featured Projects)
 
 <table>
 <tr>
@@ -175,7 +177,7 @@ Offline, air-gapped Bitcoin forensics for investigators, built for Smart India H
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
-<img src="https://img.shields.io/badge/Graph%20ML-DC2626?style=flat-square">
+<img src="https://img.shields.io/badge/Graph%20ML-A50044?style=flat-square">
 
 - 🕸️ Wallet clustering and laundering detection (rules, anomaly, GNN)
 - 📡 Origin IP estimation from P2P relay timing with calibrated confidence
@@ -240,7 +242,7 @@ A BFSI project (VaaniLabs.AI, team Loan Rangers) that aims to explain loan rejec
 Currently working on more AI/ML, full stack and real-world problem-solving projects.
 
 **Focus Areas:**  
-<img src="https://img.shields.io/badge/AI%2FML-DC2626?style=flat-square">
+<img src="https://img.shields.io/badge/AI%2FML-A50044?style=flat-square">
 <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
@@ -258,7 +260,7 @@ Currently working on more AI/ML, full stack and real-world problem-solving proje
 </tr>
 </table>
 
-## 🏅 Hero Record (Hackathons & Experience)
+## 🏆 Trophy Room (Hackathons & Experience)
 
 - 🇮🇳 **Smart India Hackathon 2026**: worked on **MetrIQ** (PS 26107) and **btc-intel** (PS 26146)
 - 🏦 **VaaniLabs.AI student project**: Loan Advisory Agents (team Loan Rangers, BFSI and agentic AI)
@@ -267,7 +269,7 @@ Currently working on more AI/ML, full stack and real-world problem-solving proje
 
 ---
 
-## 🧪 Side Quests (More Projects)
+## 🌱 The Academy (More Projects)
 
 | Project | What it does | Tech |
 | ------- | ------------ | ---- |
@@ -279,7 +281,7 @@ Currently working on more AI/ML, full stack and real-world problem-solving proje
 
 ---
 
-## 📊 Spider-Sense Readings
+## 📊 Match Stats
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Itsimaady&theme=tokyonight" height="180"/>
@@ -291,32 +293,32 @@ Currently working on more AI/ML, full stack and real-world problem-solving proje
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itsimaady&layout=compact&hide_border=true&bg_color=0B1220&title_color=EF4444&text_color=E5E7EB" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itsimaady&layout=compact&hide_border=true&bg_color=0B1220&title_color=EDBB00&text_color=E5E7EB" />
 </p>
 
 ---
 
-## 🔥 Swing Streak
+## 🔥 Unbeaten Run
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Itsimaady&hide_border=true&background=0B1220&ring=DC2626&fire=EF4444&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=3B82F6&sideLabels=3B82F6&dates=9CA3AF" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Itsimaady&hide_border=true&background=0B1220&ring=A50044&fire=EDBB00&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=EDBB00&sideLabels=5B9BD5&dates=9CA3AF" />
 </p>
 
 ---
 
-## ⚡ Powers
+## ⚡ Playing Style
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-DC2626?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-2563EB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Web%20Development-1E3A8A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-A50044?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-004D98?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Web%20Development-C79A00?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Databases-FF6B6B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Hackathons-FFB400?style=for-the-badge" />
 </p>
 
 ---
 
-## 🎯 Mission Focus
+## 🎯 Game Plan
 
 - Artificial Intelligence and Deep Learning
 - Machine Learning with Python
@@ -327,7 +329,7 @@ Currently working on more AI/ML, full stack and real-world problem-solving proje
 
 ---
 
-## 🤝 Team Up
+## 🤝 Join the Team
 
 - 💡 Open to **AI/ML project collaborations**
 - 🤖 Interested in **AI, Deep Learning & Agentic AI**
@@ -358,11 +360,11 @@ Currently working on more AI/ML, full stack and real-world problem-solving proje
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F5C,50:1D4ED8,100:B91C1C&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EDBB00,50:A50044,100:004D98&height=120&section=footer" />
 </p>
 
-<h3 align="center">🕸️ Learn. Build. Swing. One Commit at a Time. 🕸️</h3>
+<h3 align="center">🔵🔴 Learn. Build. Score. One Commit at a Time. 🔴🔵</h3>
 
 <p align="center">
-  <sub>⭐ Star my repos and help the web grow!</sub>
+  <sub>⭐ Star my repos, every pass counts!</sub>
 </p>
